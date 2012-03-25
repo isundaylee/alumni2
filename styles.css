@@ -1,0 +1,155 @@
+a {
+	text-decoration: none; 
+	color: blue; 
+}
+
+body {
+	background-color: #D9D9D9; 
+	margin: 0; 
+	padding: 0; 
+}
+
+#title_banner {
+	width: 100%; 
+	height: 200px; 
+	margin: 0; 
+	padding: 0; 
+	background-image: url("images\\title_banner_chinese.png");
+	background-repeat: repeat-x;  
+	color: white; 
+}
+
+#title_banner h1 {
+	margin-top: 0; 
+}
+
+#footer_banner {
+	width: 100%; 
+	height: 100px; 
+	margin: 0; 
+	padding: 0; 
+	background-color: #111111; 
+}
+
+#footer_banner p {
+	text-align: center; 
+	color: white; 
+	line-height: 100px; 
+}
+
+nav {
+	margin: 0; 
+	overflow: auto; 
+}
+
+nav ul {
+	margin: 0; 
+	padding-left: 50px; 
+	position: absolute; 
+	top: 150px; 
+}
+
+nav ul li {
+	list-style-type: none; 
+	float: left;
+	margin: 10px; 
+	line-height: 20px; 
+}
+
+nav ul li a {
+	text-decoration: none; 
+	color: white; 
+}
+
+#panel {
+	width: 90%; 
+	margin: 0 auto 30px auto;
+	background-color: white; 
+	padding: 10px; 
+	-webkit-border-bottom-left-radius: 10px; 
+	-webkit-border-bottom-right-radius: 10px; 
+	-moz-border-radius-bottomleft: 10px; 
+	-moz-border-radius-bottomright: 10px; 
+}
+
+#status_bar {
+	width: 90%; 
+	margin: 30px auto 0 auto; 
+	background-color: #AFAFAF; 
+	padding: 10px; 
+	-webkit-border-top-left-radius: 10px; 
+	-webkit-border-top-right-radius: 10px; 
+	-moz-border-radius-topleft: 10px; 
+	-moz-border-radius-topright: 10px; 
+}
+
+#status_bar a {
+	color: black; 
+	text-decoration: none; 
+}
+
+input {
+	display: block; 
+	height: 30px; 
+	line-height: 30px; 
+	font-size: 18px; 
+	font-family: Georgia, serif; 
+	margin: 20px auto; 
+	border: 1px solid; 
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px;
+	padding: 0 5px;
+	width: 200px; 
+}
+
+select {
+	display: block;
+	font-size: 18px; 
+	font-family: Georgia, serif; 
+	margin: 20px auto; 
+	width: 212px; 
+	height: 30px; 
+}
+
+textarea {
+	display: block; 
+	height: 300px; 
+	line-height: 30px; 
+	font-size: 18px; 
+	font-family: Georgia, serif; 
+	margin: 20px auto; 
+	border: 1px solid; 
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px;
+	padding: 0 5px;
+	width: 200px; 
+}
+
+
+#submit_button {
+	border: 0px; 
+	background: #689AD3; 
+	width: 100px; 
+}
+
+.navigator {
+	text-decoration: none; 
+	color: blue; 
+}
+
+.navs {
+	text-align: center; 
+}
+
+.errmsg {
+	text-align:center; 
+	font-family: Georgia, serif; 
+	color: red; 
+	margin: 20px auto; 
+}
+
+.message {
+	color: red; 
+	margin: 20px auto; 
+	text-align: center; 
+}

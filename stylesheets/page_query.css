@@ -1,0 +1,53 @@
+input {
+	margin: 10px 10px;  
+	float: left; 
+}
+
+select {
+	display: block; 
+	margin: 10px 10px; 
+	float: left; 
+}
+
+#type {
+	clear: left; 
+}
+
+#submit_button {
+	float: none; 
+	margin: 5px auto 20px auto; 
+	clear: both; 
+	width: 200px; 
+}
+
+td {
+	text-align: center; 
+}
+
+table {
+	margin: 10px auto; 
+}
+
+.query_fields {
+	overflow: auto; 
+}
+
+.msg {
+	text-align: center; 
+}
+
+h2 {
+	display: inline; 
+}
+
+.author {
+	display: inline; 
+}
+
+h2 a {
+	text-decoration: none;
+	color: blue;
+}
+
+.preview {
+}

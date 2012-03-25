@@ -1,0 +1,15 @@
+#cal {
+	width: 95%; 
+	margin: 20px auto; 
+	table-layout: fixed; 
+}
+
+#cal td {
+	height: 100px; 
+	vertical-align: top; 
+	text-align: center; 
+}
+
+.msg {
+	text-align: center; 
+}

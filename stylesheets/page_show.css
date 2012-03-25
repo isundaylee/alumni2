@@ -1,0 +1,38 @@
+.title {
+	margin-bottom: 0; 
+}
+
+table {
+	margin-left: 40px; 
+}
+
+textarea {
+	width: 80%;
+	height: 100px;  
+}
+
+#submit_button {
+	width: 200px; 
+}
+
+embed {
+	display: block; 
+	margin: 10px auto; 
+}
+
+img {
+	display: block; 
+	margin: 10px auto; 
+}
+
+msg {
+	margin: 20px auto; 
+}
+
+.section {
+	margin: 0; 
+}
+
+.signup_button {
+	text-align: center; 
+}

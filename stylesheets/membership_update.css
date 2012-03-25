@@ -1,0 +1,16 @@
+input {
+	width: 400px; 
+}
+
+select {
+	width: 412px; 
+}
+
+textarea {
+	width: 400px; 
+	height: 200px; 
+}
+
+#submit_button {
+	width: 200px; 
+}
